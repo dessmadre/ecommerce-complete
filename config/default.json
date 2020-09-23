@@ -1,0 +1,8 @@
+{
+  "mongoURI": "mongodb+srv://duarte123:duarte123@cluster0.s12q6.mongodb.net/ecommerce?retryWrites=true&w=majority",
+  "PORT": "8000",
+  "JWT_SECRET": "secret",
+  "BRAINTREE_MERCHANT_ID": "9cpq234gnf9t9hrn",
+  "BRAINTREE_PUBLIC_KEY": "sgc3bnqrknvs98n5",
+  "BRAINTREE_PRIVATE_KEY": "d7f874165aa4aff2eb2c7d0dd280d2ce"
+}
